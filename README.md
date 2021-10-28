@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=isvaoc&label=Profile%20views&color=0e75b6&style=flat" alt="isvaoc" /> </p>
 
-<h2 align="center">Tecnologías</h2>
+<h2 align="left">Tecnologías</h2>
 
-<h3 align="left">Lenguajes de programación</h3>
+<h3 align="center">Lenguajes de programación</h3>
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://cran.r-project.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/74514413/139186663-66979704-3313-4198-b7ad-5589e59307a4.png" alt="R" width="40" height="40"/> </a>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>  
 
-<h3 align="left">Herramientas</h3>
+<h3 align="center">Herramientas</h3>
 <p align="center"> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2 align="center">🤝 Contáctame:</h2>
+<h2 align="left">🤝 Contáctame:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isvaoc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isvaoc/" height="30" width="40" /></a> <strong>isvaoc</strong>
 </p>
 
-<h2 align='center'>📈 Mis estadísticas de Github:</h2>
+<h2 align='left'>📈 Mis estadísticas de Github:</h2>
 <h3 align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=isvaoc&show_icons=true&locale=en" alt="isvaoc" /></h3>
 <h3 align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isvaoc&show_icons=true&locale=en&layout=compact" alt="isvaoc" /></h3>
