@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=isvaoc&label=Profile%20views&color=0e75b6&style=flat" alt="isvaoc" /> </p>
 <h3 align="center">Tecnologías</h3>
+
+
 <h4 align="left">Lenguajes de programación</h4>
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -42,11 +44,12 @@ Here are some ideas to get you started:
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="left">Contáctame:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isvaoc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isvaoc/" height="30" width="40" /></a> <strong>isvaoc</strong>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isvaoc&show_icons=true&locale=en&layout=compact" alt="isvaoc" /></p>
+<p align='center'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isvaoc&show_icons=true&locale=en&layout=compact" alt="isvaoc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isvaoc&show_icons=true&locale=en" alt="isvaoc" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isvaoc&show_icons=true&locale=en" alt="isvaoc" /></p>
