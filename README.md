@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ![banner-github](https://user-images.githubusercontent.com/74514413/139179299-d305840c-0d9a-4fdb-935f-39c4e47c559b.png)
 ----------------------
-<h3 align="center">Hola 👋, yo soy Isabel, una física apasionada por la astronomía, una desarrolladora front-end en proceso y una jugadora de Tenis de Mesa.</h3>
+<h3 align="center" color='#6D2E46'>Hola 👋, yo soy Isabel, una física apasionada por la astronomía, una desarrolladora front-end en proceso y una jugadora de Tenis de Mesa.</h3>
 <p>La física me enseñó que el conocimiento puede ser adquirido de muchas maneras, pero nunca llega a ser absoluto, y que la curiosidad es esa pieza clave que nos permite seguir instruyéndonos. Mis ganas de aprender me llevaron a adquirir nuevas habilidades tales como la programación (R y Python) y el análisis de datos. También, me impulsaron a incursionar en una nueva área, la de tecnología, donde aprendí de la importancia de la comunicación eficaz, del autoaprendizaje y del trabajo en equipo. Además, aprendí a manejar HTML, CSS, JavaScript, NodeJS y a trabajar bajo una metodología ágil.
 </p>
 
-<hr size=1 color='#CEBEBE'>
+<hr size=0.5 color='#6D2E46'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isvaoc&label=Profile%20views&color=0e75b6&style=flat" alt="isvaoc" /> </p>
 
