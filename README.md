@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center">Hola 👋, yo soy ...</h1>
 ![banner-github](https://user-images.githubusercontent.com/74514413/139179299-d305840c-0d9a-4fdb-935f-39c4e47c559b.png)
 
-<h1 align="center">Hi 👋, I'm Isabel</h1>
+
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isvaoc&label=Profile%20views&color=0e75b6&style=flat" alt="isvaoc" /> </p>
