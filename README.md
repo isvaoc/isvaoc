@@ -49,12 +49,11 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2 align="center">Contáctame:</h2>
+<h2 align="center">🤝 Contáctame:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/isvaoc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isvaoc/" height="30" width="40" /></a> <strong>isvaoc</strong>
 </p>
 
-<hr size=1>
-<h4 align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isvaoc&show_icons=true&locale=en&layout=compact" alt="isvaoc" /></h4>
-
-<h4 align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=isvaoc&show_icons=true&locale=en" alt="isvaoc" /></h4>
+<h2 align='center'>📈 Mis estadísticas de Github:</h2>
+<h3 align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=isvaoc&show_icons=true&locale=en" alt="isvaoc" /></h3>
+<h3 align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isvaoc&show_icons=true&locale=en&layout=compact" alt="isvaoc" /></h3>
