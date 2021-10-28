@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hola 👋, yo soy ...</h1>
 ![banner-github](https://user-images.githubusercontent.com/74514413/139179299-d305840c-0d9a-4fdb-935f-39c4e47c559b.png)
-
+<img src="https://user-images.githubusercontent.com/74514413/139179299-d305840c-0d9a-4fdb-935f-39c4e47c559b.png" alt="banner"/>
 
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
