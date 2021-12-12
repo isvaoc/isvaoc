@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![banner-github](https://user-images.githubusercontent.com/74514413/139179299-d305840c-0d9a-4fdb-935f-39c4e47c559b.png)
-
+![banner](https://user-images.githubusercontent.com/74514413/145728207-0df4f749-5c11-476a-8fc0-a2c9170982b0.png)
 
 <h2 align="center">Hola 👋, yo soy Isabel 🇲🇽</h2> 
 <h3 align="center"> Soy una física apasionada por la astronomía 🔭, una desarrolladora front-end en proceso 💻 y una jugadora de Tenis de Mesa 🎾.</h3>
